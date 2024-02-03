@@ -1,4 +1,10 @@
+# Olá, Mundo! 🖐️
+
+## Me chamo Vitor, atualmente estou cursando análise e desenvolvimento de sistemas
+
 ![Vitor Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Viitorsoares&show_icons=true&theme=highcontrast&locale=pt-br)
+
+***
 
 ## Tecnologias que utilizo!
 
