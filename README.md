@@ -1,9 +1,9 @@
 # Olá, bem vindo ao meu perfil!
 
-*  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação.
-*  3 anos estudando tecnologia e desenvolvimento de software.
-*  Atualmente focado em React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma e Tailwind CSS.
-*  Desenvolvo projetos próprios para transformar aprendizado em aplicações reais e aprimorar continuamente minhas habilidades.
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação.
+3 anos estudando tecnologia e desenvolvimento de software.
+Atualmente focado em React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma e Tailwind CSS.
+Desenvolvo projetos próprios para transformar aprendizado em aplicações reais e aprimorar continuamente minhas habilidades.
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Viitorsoares&show_icons=true&theme=highcontrast&locale=pt-br)
 
