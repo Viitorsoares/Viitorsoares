@@ -5,6 +5,8 @@
 Atualmente focado em React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma e Tailwind CSS.
 Desenvolvo projetos próprios para transformar aprendizado em aplicações reais e aprimorar continuamente minhas habilidades.
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Viitorsoares&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Viitorsoares&show_icons=true&theme=highcontrast&locale=pt-br)
 
 ## Ferramentas e Tecnologias que utilizo!
