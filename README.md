@@ -7,6 +7,9 @@ Desenvolvo projetos próprios para transformar aprendizado em aplicações reais
 
 #### Ferramentas e Tecnologias que utilizo!
 <div>
+  <p> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,sass,python,express,postgresql,prisma,git" /> </p>
+</div>
+<div>
   <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
