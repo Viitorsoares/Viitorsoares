@@ -6,7 +6,7 @@
 
 Desenvolvedor Full Stack focado na construção de aplicações web modernas, integração de ponta a ponta e implementação de regras de negócio. Atuo na criação de soluções escaláveis, priorizando organização de código, boa arquitetura e resolução eficiente de problemas.
 
-### Tecnologias e ferramentas que utilizo!
+### Tecnologias e ferramentas que utilizo
 <p>  <img height="30" whidt="40" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,sass,python,express,postgresql,prisma,docker,git" /> </p>
 
 ---
