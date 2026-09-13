@@ -4,10 +4,7 @@
 
 ### Olá, bem vindo ao meu perfil!
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação.
-mais de 3 anos estudando tecnologia e desenvolvimento de software.
-Atualmente focado em React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma e Tailwind CSS.
-Desenvolvo projetos próprios para transformar aprendizado em aplicações reais e aprimorar continuamente minhas habilidades.
+Desenvolvedor Full Stack focado na construção de aplicações web modernas, integração de ponta a ponta e implementação de regras de negócio. Atuo na criação de soluções escaláveis, priorizando organização de código, boa arquitetura e resolução eficiente de problemas.
 
 ### Tecnologias e ferramentas que utilizo!
 <p>  <img height="30" whidt="40" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,sass,python,express,postgresql,prisma,docker,git" /> </p>
