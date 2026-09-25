@@ -16,3 +16,9 @@ Desenvolvedor Full Stack focado na construção de aplicações web modernas, in
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitorg_soares)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viitorsoares/Viitorsoares/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viitorsoares/Viitorsoares/output/github-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/Viitorsoares/Viitorsoares/output/github-snake.svg" />
+</picture>
+
